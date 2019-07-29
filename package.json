@@ -1,0 +1,41 @@
+{
+  "name": "at.castana.cordova.plugins.zebraprint",
+  "version": "0.1.2",
+  "displayName": "zebraPrint",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {}
+    }
+  },
+  "dependencies": {
+    "cordova-android": "~7.1.4",
+    "cordova-plugin-whitelist": "1.3.4"
+  },
+  "description": "A PhoneGap Hello World template",
+  "devDependencies": {
+    "cordova-plugin-whitelist": "1.3.4",
+    "cordova-android": "7.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ByteDoc/cordova-zebra-print.git"
+  },
+  "keywords": [
+    "cordova",
+    "zebra",
+    "print",
+    "label",
+    "bluetooth",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Maximilian Schaufler",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/ByteDoc/cordova-zebra-print/issues"
+  },
+  "homepage": "https://github.com/ByteDoc/cordova-zebra-print#readme"
+}
